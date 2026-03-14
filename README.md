@@ -1,6 +1,6 @@
 ### EA801 - PROJETO 1
 
-### Título do projeto (TBD)
+### Motor Virtual com BitDogLab V7
 
 **Autor:** Raul Galdino Tancredo (RA: 223908 / [@r223908](https://github.com/r223908))
 
