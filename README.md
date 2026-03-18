@@ -34,14 +34,13 @@ Motor virtual implementado apenas com os componentes disponíveis na BitDogLab V
 ---
 ## 📂 ESTRUTURA DO PROJETO
 ``` text
+├── .vscode/                        → Listagens das config. e bibliotecas
 ├── docs/                           → Documentação do projeto
 │   ├── images/                     → Imagens para relatórios e referências
 │   ├── video/                      
 │   │   └── Vídeo(s) original(is)   → Vídeo original
 │   │   └── link.md                 → Link para o vídeo no YouTube
 │   └── (...)                       → Relatórios, diagrama de bloco
-├── lib/                            → Bibliotecas externas e dependências
-│   └── lib.md                      → Listagem das bibliotecas necessárias
 ├── src/                            → Código-fonte
 │   └── (...)
 ├── LICENSE                         → Licença de uso do código
