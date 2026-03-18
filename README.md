@@ -2,7 +2,9 @@
 
 ### Motor Virtual com BitDogLab V7
 
-**Autor:** Raul Galdino Tancredo (RA: 223908 / [@r223908](https://github.com/r223908))
+**Autores:** 
+- Raul Galdino Tancredo (RA: 223908 / [@r223908](https://github.com/r223908))
+- Arthur Lucas Da Silva Nogueira (RA: 213293 / [@arthurnog](https://github.com/arthurnog)))
 
 **Professor:** Eric Rohmer
 
