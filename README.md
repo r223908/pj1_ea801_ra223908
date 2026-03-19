@@ -8,8 +8,8 @@
 
 **Professor:** Eric Rohmer
 
-* **Proposta de Projeto**: [Proposta em G-Docs](https://docs.google.com/document/d/10GHDXTv5ku1wA1S0LICiZAJUiHmAb50JJuictFbWFdU/edit?usp=sharing) (acesso "Comentador" para UNICAMP)
-* **Relatório de projeto (in-work)**: [Relatório em G-Docs](https://docs.google.com/document/d/1BPoY0Bv_kntMQyELVzm91qtyFT8J9KDplXFu-kLHmjU/edit?usp=sharing) (acesso "Comentador" para UNICAMP)
+* **Proposta de Projeto**: [Proposta em G-Docs](https://docs.google.com/document/d/1G3z908f7dJlOCZDHbCRtvI69GEogoIHE9IDFKYlxk1Y) (acesso "Comentador" para UNICAMP)
+* **Relatório de projeto (in-work)**: [Relatório em G-Docs](https://docs.google.com/document/d/1HIWm7d9RQejxlOvIOjTr2Ctj0aDDG9ewAJ-PNJI3KWs) (acesso "Comentador" para UNICAMP)
 * **Demonstração do projeto no YouTube (in-work)**: [Vídeo](link)
 
 ---
